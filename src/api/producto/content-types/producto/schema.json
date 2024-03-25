@@ -20,7 +20,8 @@
       "type": "richtext"
     },
     "precio": {
-      "type": "integer"
+      "type": "integer",
+      "required": true
     },
     "stock": {
       "type": "boolean",
